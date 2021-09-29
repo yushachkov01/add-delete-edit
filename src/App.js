@@ -1,13 +1,12 @@
 import './App.css';
-import Add from './Add'
-import DeleteEdit from './DeleteEdit'
-
+import InputBlock from './InputBlock'
+import OutputBlock from './OutputBlock'
 
 function App() {
   return (
     <div className="box">
-      <Add />
-      <DeleteEdit/>
+      <InputBlock />
+      <OutputBlock/>
     </div>
   );
 }

@@ -1,5 +1,0 @@
-function DeleteEdit(){
-  return ("we"
-
-  )
-}
